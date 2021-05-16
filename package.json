@@ -5,13 +5,16 @@
   "repository": "git@github.com:MatheusR42/clean-react.git",
   "author": "MatheusR42 <matheus.araujo.r42@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^26.0.23",
     "@types/node": "^15.3.0",
     "@typescript-eslint/eslint-plugin": "^4.23.0",
     "eslint": "^7.26.0",
-    "eslint-config-standard-with-typescript": "11",
+    "eslint-config-standard-with-typescript": "^20.0.0",
     "eslint-plugin-import": "^2.23.2",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.1.0",
