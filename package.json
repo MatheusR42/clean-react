@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:MatheusR42/clean-react.git",
   "author": "MatheusR42 <matheus.araujo.r42@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.1.0"
+  }
 }
